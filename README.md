@@ -1,6 +1,10 @@
-# tutorials 
+# Tutorials 
 
 Just a collection of tutorials I am working on. They may or may be turned into my next book. I'm wavering between linear algebra, machine learning, and/or some type of bayesian inference book. Maybe multi-track tracking?
+
+
+Most of these are probably very incomplete and not ready for public consumption. They are me working out ideas, not a complete attempt to provide tutorials that are readable by others. As things develop I'll probably change this notice and/or list the ones that are ready for public consumption. I think it is worth making public so early - it is often hard to go from abstract math to working code, and seeing that is worthwhile even if the explanatory text is bad or missing.
+
 
 ## Licence
 
